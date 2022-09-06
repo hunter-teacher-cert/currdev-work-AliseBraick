@@ -15,6 +15,7 @@ The class start with a discussion of their personal opinions on how others shoul
 ![Common Creative License](http://fabacademy.org/2018/labs/fablabtrivandrum/students/aby-michael/Week19/image/CC%20at.png)
 
 
+
 ### 7-8.IC.6 Assess the accessibility of a computing device or software application in terms of user needs
 
 ### Context
