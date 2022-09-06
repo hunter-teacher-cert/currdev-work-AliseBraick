@@ -26,4 +26,5 @@ The above standards was addressed when students had to make their website access
 ### Lesson Overview
 The class starts with a discussion about how to make a website accessible to blind people and visually impaired. Following the discussion, I introduce the Alt Image Text: Alt text (alternative text) allows screen readers to read information about images out loud to users who are blind or visually impaired. Therefore, When you upload an image make it a habit to set an alt tag.The Alt text does not have to be long, but it does need to be detailed and descriptive. For the closing activity, students are provided with multiple images and were asked to practice writing good Alt Text.
 
-![](https://www.crimsondesigns.com/blog/wp-content/uploads/2019/05/html-img-element.gif)
+![](https://www.crimsondesigns.com/blog/wp-content/uploads/2019/05/html-img-element.gif). 
+![] (https://www.talkingpdf.org/wp-content/uploads/2015/10/AltTextinSafari.jpg)
