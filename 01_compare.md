@@ -4,7 +4,7 @@
 I implement unit 3 of the Computer Science Discoveries /Game Design that focuses on the fundamental concepts of programming. 
 
 # Differences
-Code.org's curriculum  recommends that students start with Unit One that focuses on problem solving and the iteretive design process using various unplug activities. Code.org suggests that teacher spends about 3-4 weeks on this non coding unit. However, I found students loose the motivation when they do repetitive unplugged activities. Therefore, I do not spend much time on unit one. Rather, we dive into the problem solving process while students working on the Game Design unit. Additionally, code.org lessons are over scaffolding which might prevent students from  getting the big idea. Therefore, I skip some of those lessons and teach the concept directly while providing ample opportunities to practice. 
+Code.org's curriculum  recommends that students start with Unit One that focuses on problem solving and the iteretive design process using various unplug activities. Code.org suggests that teacher spends about 3-4 weeks on this non coding unit. However, I found students loose the motivation when they do repetitive unplugged activities. Therefore, I do not spend much time on unit one. Rather, we dive into the problem solving process while students working on the Game Design unit. Additionally, code.org lessons are over scaffolded which might prevent students from  getting the big idea. Therefore, I skip some of those lessons and teach the concept directly while providing ample opportunities to practice. 
 
 # Weaknesses
 I think CSD should should be only a text- based language rather than a block/text- based option, so students are more comfortable with the text-based languge when they get to high school.
