@@ -11,6 +11,7 @@ This class would meet 3x/week for 55min.
 8th grade students after CSD/code.org
 
 ### Overview/Ideas
+
 *variables
 *In/Out Operations
 *Data Type
