@@ -12,11 +12,11 @@ This class would meet 3x/week for 55min.
 
 ### Overview/Ideas
 
-*variables
-*In/Out Operations
-*Data Type
-*Math Operations
-*For loops/While Loops
-*Conditionals/Nested Conditionals
-*Mini project after each concept
-*final project dice guessing game
+* variables
+* In/Out Operations
+* Data Type
+* Math Operations
+* For loops/While Loops
+* Conditionals/Nested Conditionals
+* Mini project after each concept
+* final project dice guessing game
