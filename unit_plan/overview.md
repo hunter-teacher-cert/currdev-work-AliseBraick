@@ -26,23 +26,23 @@ https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
 
 ### Lessons
 Total length: 8-10 lessons
-*variables
-*In/Out Operations
-*Data Type
-*Math Operations
-*For loops/While Loops
-*Conditionals/Nested Conditionals
-*Maybe Lists/build-in list commands ????
+* variables
+* In/Out Operations
+* Data Type
+* Math Operations
+* For loops/While Loops
+* Conditionals/Nested Conditionals
+* Maybe Lists/build-in list commands ????
 
 ### Assesments
 *Formative: 
 Check points along process/Error analysis/Debug
 
-*Summative:  
+* Summative:  
 Multiple Mini Projects such as:
-*Retiremnet calculator
-*Excercise tracker
-*Dice Guess Game
+* Retiremnet calculator
+* Excercise tracker
+* Dice Guess Game
 
 
 
