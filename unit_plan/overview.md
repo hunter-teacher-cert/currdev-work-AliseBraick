@@ -35,7 +35,7 @@ Total length: 8-10 lessons
 * Maybe Lists/build-in list commands ????
 
 ### Assesments
-*Formative: 
+* Formative: 
 Check points along process/Error analysis/Debug
 
 * Summative:  
