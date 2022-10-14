@@ -1,6 +1,6 @@
 #### Last name: Braick
 #### First name: Alise
-#### Github username: abraick
+#### Github username: AliseBraick
 
 #### Instructions:
 Fill out the top of this form, commit and push it back to GitHub.
