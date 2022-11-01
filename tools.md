@@ -1,5 +1,5 @@
-### Tool_1  
-### Type: Programming  
+## Tool_1  
+## Type: Programming  
 ## Name: replit.com
 
 General purpose :Repl.it is a free IDE _integrated development environment_ that allows users to write their own programs and code in many different languages.
@@ -15,8 +15,8 @@ Why was it selected?
 * Collaborative aspects in real time
 * Syntax highlighting
 -
-### Tool_2 
-### Type: Instructional/Presentation tool
+## Tool_2 
+## Type: Instructional/Presentation tool
 ## Name: Doceri Desktop and the Doceri iPad App
 
 General Purpose: Doceri is a great  piece of software.  Teachers can use it with their iPads to remotely control their desktops and to write on a whiteboard without ever needing to have their back to students.
